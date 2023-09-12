@@ -1,0 +1,5 @@
+yolov5的所需函数库请参考requirements.txt
+使用方法：将yolov5文件夹放置项目根目录下，与main.py同根
+输入是BGR的三维数组（numpy）
+使用时from yolov5.detectinterest import detect
+随后直接detect(image)即可，其返回值为所有目标像素坐标系下的物体中心坐标组成的二维列表
