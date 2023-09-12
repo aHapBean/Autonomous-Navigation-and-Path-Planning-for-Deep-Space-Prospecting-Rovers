@@ -1,7 +1,9 @@
 # Autonomous-Navigation-and-Path-Planning-for-Deep-Space-Prospecting-Rovers
-Autonomous Navigation and Path Planning for Deep Space Prospecting Rovers in The 18th "Challenge Cup" Competition "Revealing the Leader" Special Contest used by team of Shanghai Jiao Tong University.
+Autonomous Navigation and Path Planning for Deep Space Prospecting Rovers Project's code
+in The 18th "Challenge Cup" Competition "Revealing the Leader" Special Contest programmed by team of Shanghai Jiao Tong University.
+第十八届挑战杯竞赛“揭榜挂帅”赛道中由上海交通大学团队撰写的深空探矿巡视器的自主导航与路径规划项目代码。
 
-## Background:
+## 背景:
 ### 题目介绍
 地外天体探测存在严苛环境未知、先验知识欠缺和通信条
 件恶劣等难题，目前已发射的月球和火星地表巡视器，其探测
@@ -25,7 +27,7 @@ Autonomous Navigation and Path Planning for Deep Space Prospecting Rovers in The
 避障、兴趣目标搜索等功能。
 
 ## 项目内容
-本github仓库用于保存第十八届挑战杯课外科技学术作品竞赛“揭榜挂帅”专项赛中上海交通大学深空探矿团队所写的代码。
+本github仓库用于保存第十八届挑战杯课外科技学术作品竞赛“揭榜挂帅”专项赛中上海交通大学深空探矿团队所撰写的代码。
 
 ### 项目简介
 随着地球地表易开采矿业资源日益枯竭，而月球等地外天体上探明了丰富的矿
@@ -48,23 +50,24 @@ SLAM 的整体框架以及定位思路，设计了一套月球矿物开采任务
 到达目的地并完成兴趣目标搜索任务。
 
 ### 算法方案设计示意图
-![figure of algorithm design]()
+![figure of algorithm design](/images/overall_image.png)
 
 ### 算法模块说明
-![image]()
 
 #### 导航定位模块
-![image]()
+![image](/images/nevigation.png)
 
 ### 路径规划模块
 #### 全局路径规划
-![image]()
+![image](/images/path_planning1.png)
 #### 局部路径规划
-
+![image](/images/path_planning2.png)
 ### 控制模块
-![image]()
+![image](/images/control.png)
 
 ### 识别模块
 #### 障碍物识别
+![image](/images/recognition1.png)
 #### 目标识别
+![image](/images/recognition2.png)
 
