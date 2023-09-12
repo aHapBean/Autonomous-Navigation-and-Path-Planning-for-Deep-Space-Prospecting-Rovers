@@ -1,6 +1,7 @@
 # Autonomous-Navigation-and-Path-Planning-for-Deep-Space-Prospecting-Rovers
 Autonomous Navigation and Path Planning for Deep Space Prospecting Rovers Project's code
 in The 18th "Challenge Cup" Competition "Revealing the Leader" Special Contest programmed by team of Shanghai Jiao Tong University.
+
 第十八届挑战杯竞赛“揭榜挂帅”赛道中由上海交通大学团队撰写的深空探矿巡视器的自主导航与路径规划项目代码。
 
 ## 背景:
