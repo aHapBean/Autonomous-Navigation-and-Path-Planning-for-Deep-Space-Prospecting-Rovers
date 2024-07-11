@@ -2,7 +2,7 @@
 Autonomous Navigation and Path Planning for Deep Space Prospecting Rovers Project's code
 in The 18th "Challenge Cup" Competition "Revealing the Leader" Special Contest programmed by team of Shanghai Jiao Tong University.
 
-在第十八届挑战杯竞赛“揭榜挂帅”赛道中，由上海交通大学团队撰写的深空探矿巡视器的自主导航与路径规划项目代码。
+在第十八届挑战杯竞赛“揭榜挂帅”赛道中，由上海交通大学团队撰写的深空探矿巡视器的自主导航与路径规划项目代码。本项目最终获得**全国决赛一等奖**。
 
 成员：
 Fangyu Jiang, Zeyu Zhang, Xiangdong Zhang, Xieyu Zheng, Tianhua Li, Yicheng Jin, Bowen Jiang, Sheng Cheng.
